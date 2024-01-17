@@ -14,4 +14,7 @@ Scalability: The database is designed to scale with the growth of data, ensuring
 ## Making Dashboard
 ### Dashboard link
 https://public.tableau.com/shared/4ZTRDYWFC?:display_count=n&:origin=viz_share_link
+![Screenshot (132)](https://github.com/TanmoyGuria/Sql_Sales_Analysis/assets/127241879/418e9c38-d4e4-4de8-a6d0-f193b05f3aa8)
+
+
 
